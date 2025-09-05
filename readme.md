@@ -38,7 +38,7 @@ O relatório apresenta:
 
 ## 👨‍💻 Integrantes do Grupo
 - <a href="https://github.com/juninho-Oliveira">Damião Junior</a>  
-- <a href="">Luigi Borges Locatelli</a>  
+- <a href="https://github.com/Luigi-Loc">Luigi Borges Locatelli</a>  
 - <a href="https://github.com/OtavioHx0">Otavio Henrique Azevedo Chaves</a> 
 - <a href="#">Pedro Henrique Sales Siquele</a>
 - <a href=""></a>  
