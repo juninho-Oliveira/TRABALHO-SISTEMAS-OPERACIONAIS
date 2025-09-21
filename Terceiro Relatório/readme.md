@@ -63,6 +63,15 @@ O Windows possui duas interfaces principais de linha de comando:
 
 ---
 
-## 📊 Comparação GUI x CLI
-- **GUI** → Mais intuitiva, ideal para usuários comuns.  
-- **CLI** → Mais rápida e poderosa, ideal
+## ✅ Conclusão
+A comparação entre GUI e CLI evidencia diferentes filosofias de uso:  
+- **GUI (Windows Desktop)** → privilegia a **praticidade** e acessibilidade para qualquer usuário.  
+- **CLI (CMD/PowerShell)** → privilegia a **eficiência e automação**, essencial para administradores e técnicos.  
+
+---
+
+## 👨‍💻 Grupo
+- <a href="https://github.com/juninho-Oliveira">Damião Junior</a>  
+- <a href="https://github.com/Luigi-Loc">Luigi Borges Locatelli</a>  
+- <a href="https://github.com/OtavioHx0">Otavio Henrique Azevedo Chaves</a>  
+- <a href="https://github.com/TheBestOFWord">Pedro Henrique Sales Siquele</a>  
